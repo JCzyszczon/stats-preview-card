@@ -77,4 +77,4 @@ Users should be able to:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [live-page]: https://jczyszczon.github.io/stats-preview-card/
-[solution-url]: https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-IH9xZTW7kw
+[solution-url]: https://www.frontendmentor.io/solutions/responsive-stats-preview-card-y7bAy4Ady1
